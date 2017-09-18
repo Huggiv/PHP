@@ -1,0 +1,49 @@
+@import url("//fonts.googleapis.com/css?family=Muli:300");
+html, body, div, img, h1 {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+body {
+  background: #00838f;
+}
+
+.profile {
+  width: 600px;
+  height: 240px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  font-family: "Muli", sans-serif;
+  color: #e0f7fa;
+}
+.profile .profile-pic {
+  width: 240px;
+  height: 240px;
+  float: left;
+  border-radius: 50% 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.profile .text-container {
+  width: 360px;
+  margin-left: 256px;
+  padding-top: 68.57143px;
+  text-align: center;
+  text-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+.profile h1 {
+  margin-bottom: 34.28571px;
+  font-weight: 400;
+  font-size: 2.8em;
+  line-height: 1em;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+}
+.profile .title {
+  font-size: 1.4em;
+  letter-spacing: 1px;
+}

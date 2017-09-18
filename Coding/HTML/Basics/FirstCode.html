@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
+</head>
+
+<style>
+div.cities {
+    background-color: green;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+} 
+</style>
+<!--Smple examles-->
+<body style="background-color:powderblue;">
+<h1> My Profile</h1>
+
+<p title="I'm a tiptool">
+	Here is the details:
+</p>
+
+<!-- <p>Browsers usually insert quotation marks around the q element.</p> -->
+
+<p>My Quote: <q>Be Strong to face new challenges and prove that I can handle them easily.</q></p>
+
+<p>You can call me <q> <abbr title="Vittal Huggi">VSH</abbr></q>.</p>
+
+<h3> Permanent Address</h3>
+		<address>
+		Vittal Huggi.<br> 
+		Gangur, Vijaypur<br>
+		Karnataka<br>
+		India-586129
+		</address>
+
+<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+
+<h2>My Albums</h2>
+<img src="IMG_20150409_165605097.jpg" alt="Profile Image" style="width:304px;height:500px;">
+
+<table style="width:50%">
+	<tr>
+		<th>Table First Header</th>
+		<th>Table Second Header</th>
+	</tr>
+	<tr>
+		<td>Tables Cell</td>
+	</tr>
+</table>
+
+<ul style="list-style-type:circle">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+<ol type='A'>
+	<li>Coffee</li>
+	<li>Tea</li>
+	<li>Milk</li>
+</ol>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea
+    <ul>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul>
+
+<div class="cities">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+		<dl>
+		  <dt>Coffee</dt>
+		  <dd>- black hot drink</dd>
+		  <dt>Milk</dt>
+		  <dd>- white cold drink</dd>
+		</dl>
+
+		<ul>
+		  <li>Coffee</li>
+		  <li>Tea
+		    <ul>
+		      <li>Black tea</li>
+		      <li>Green tea</li>
+		    </ul>
+		  </li>
+		  <li>Milk</li>
+		</ul>
+
+</div>
+
+<h1>My <span style="color:red">Important</span> Heading</h1>
+
+<iframe height="300px" width="100%" src="demo_iframe.htm" name="iframe_a"></iframe>
+
+<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
+
+<p>When the target of a link matches the name of an iframe, the link will open in the iframe.</p>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
+
+<script>
+function light(sw) {
+    var pic;
+    if (sw == 0) {
+        pic = "pic_bulboff.gif"
+    } else {
+        pic = "pic_bulbon.gif"
+    }
+    document.getElementById('myImage').src = pic;
+}
+</script>
+
+<img id="myImage" src="pic_bulboff.gif" width="100" height="180">
+
+<p>
+<button type="button" onclick="light(1)">Light On</button>
+<button type="button" onclick="light(0)">Light Off</button>
+</p>	
+</body>
+</html>

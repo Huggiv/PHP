@@ -1,0 +1,3996 @@
+Action 8:04:21: INSTALL. 
+1: MySQL Server 5.6 2: {84A5AECC-9516-4948-B606-D65819E5ECBF} 
+Action 8:04:21: FindRelatedProducts. Searching for related applications
+Action 8:04:21: AppSearch. Searching for installed applications
+Action 8:04:21: LaunchConditions. Evaluating launch conditions
+Action 8:04:21: ValidateProductID. 
+Action 8:04:21: CostInitialize. Computing space requirements
+Action 8:04:21: FileCost. Computing space requirements
+Action 8:04:21: CostFinalize. Computing space requirements
+Action 8:04:21: MigrateFeatureStates. Migrating feature states from related applications
+Action 8:04:21: InstallValidate. Validating install
+Min: 0 Max: 3651
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 175
+Position: 200
+Position: 225
+Position: 250
+Position: 275
+Position: 300
+Position: 325
+Position: 350
+Position: 375
+Position: 400
+Position: 425
+Position: 450
+Position: 475
+Position: 500
+Position: 525
+Position: 550
+Position: 575
+Position: 600
+Position: 625
+Position: 650
+Position: 675
+Position: 700
+Position: 725
+Position: 750
+Position: 775
+Position: 800
+Position: 825
+Position: 850
+Position: 875
+Position: 900
+Position: 925
+Position: 950
+Position: 975
+Position: 1000
+Position: 1025
+Position: 1050
+Position: 1075
+Position: 1100
+Position: 1125
+Position: 1150
+Position: 1175
+Position: 1200
+Position: 1225
+Position: 1250
+Position: 1275
+Position: 1300
+Position: 1325
+Position: 1350
+Position: 1375
+Position: 1400
+Position: 1425
+Position: 1450
+Position: 1475
+Position: 1500
+Position: 1525
+Position: 1550
+Position: 1575
+Position: 1600
+Position: 1625
+Position: 1650
+Position: 1675
+Position: 1700
+Position: 1725
+Position: 1750
+Position: 1775
+Position: 1800
+Position: 1825
+Position: 1850
+Position: 1875
+Position: 1900
+Position: 1925
+Position: 1950
+Position: 1975
+Position: 2000
+Position: 2025
+Position: 2050
+Position: 2075
+Position: 2100
+Position: 2125
+Position: 2150
+Position: 2150
+Position: 2150
+Action 8:04:24: SaveTargetDir. 
+Action 8:04:24: InstallInitialize. 
+Action 8:04:24: RemoveExistingProducts. Removing applications
+Application: {970B8058-6355-4AC7-BD49-FE5E282559C6}, Command line: UPGRADINGPRODUCTCODE={84A5AECC-9516-4948-B606-D65819E5ECBF} CLIENTPROCESSID=8688 CLIENTUILEVEL=3 MSICLIENTUSESEXTERNALUI=1 REMOVE=ALL
+DoStep
+Action 8:04:24: INSTALL. 
+1: MySQL Server 5.6 2: {970B8058-6355-4AC7-BD49-FE5E282559C6} 
+Action 8:04:24: FindRelatedProducts. Searching for related applications
+Action 8:04:24: AppSearch. Searching for installed applications
+Property: GETINSTALLDIR, Signature: FindInstallLocation
+DoStep
+Property: OLDERVERSION, Signature: FindOlderVersion
+DoStep
+Property: DATADIR, Signature: FindDataDir
+DoStep
+Property: INSTALLDIR2, Signature: FindInstallLocation2
+DoStep
+Action 8:04:24: LaunchConditions. Evaluating launch conditions
+Action 8:04:24: ValidateProductID. 
+Action 8:04:24: CostInitialize. Computing space requirements
+Action 8:04:24: FileCost. Computing space requirements
+Action 8:04:24: CostFinalize. Computing space requirements
+Action 8:04:24: MigrateFeatureStates. Migrating feature states from related applications
+Action 8:04:24: InstallValidate. Validating install
+Min: 0 Max: 3651
+Position: 3651
+Position: 25
+Position: 50
+Position: 75
+Position: 100
+Position: 125
+Position: 150
+Position: 175
+Position: 200
+Position: 225
+Position: 250
+Position: 275
+Position: 300
+Position: 325
+Position: 350
+Position: 375
+Position: 400
+Position: 425
+Position: 450
+Position: 475
+Position: 500
+Position: 525
+Position: 550
+Position: 575
+Position: 600
+Position: 625
+Position: 650
+Position: 675
+Position: 700
+Position: 725
+Position: 750
+Position: 775
+Position: 800
+Position: 825
+Position: 850
+Position: 875
+Position: 900
+Position: 925
+Position: 950
+Position: 975
+Position: 1000
+Position: 1025
+Position: 1050
+Position: 1075
+Position: 1100
+Position: 1125
+Position: 1150
+Position: 1175
+Position: 1200
+Position: 1225
+Position: 1250
+Position: 1275
+Position: 1300
+Position: 1325
+Position: 1350
+Position: 1375
+Position: 1400
+Position: 1425
+Position: 1450
+Position: 1475
+Position: 1500
+Position: 1525
+Position: 1550
+Position: 1575
+Position: 1600
+Position: 1625
+Position: 1650
+Position: 1675
+Position: 1700
+Position: 1725
+Position: 1750
+Position: 1775
+Position: 1800
+Position: 1825
+Position: 1850
+Position: 1875
+Position: 1900
+Position: 1925
+Position: 1950
+Position: 1975
+Position: 2000
+Position: 2025
+Position: 2050
+Position: 2075
+Position: 2100
+Position: 2125
+Position: 2150
+Position: 2150
+Position: 2150
+Action 8:04:25: InstallInitialize. 
+Action 8:04:25: GenerateScript. Generating script operations for action:
+Position: 2151
+Position: 2152
+InstallInitialize
+DoStep
+Position: 2153
+Position: 2154
+Position: 2155
+Position: 2156
+Position: 2157
+Position: 2158
+Position: 2159
+Position: 2160
+Position: 2161
+Action 8:04:25: RemoveExistingProducts. Removing applications
+Action 8:04:25: ProcessComponents. Updating component registration
+Position: 2162
+Position: 2163
+Position: 2164
+Position: 2165
+Position: 2166
+Position: 2167
+Position: 2168
+Position: 2169
+Position: 2170
+Position: 2171
+Position: 2172
+Position: 2173
+Position: 2174
+Position: 2175
+Position: 2176
+Position: 2177
+Position: 2178
+Position: 2179
+Position: 2180
+Position: 2181
+Position: 2182
+Position: 2183
+Position: 2184
+Position: 2185
+Position: 2186
+Position: 2187
+Position: 2188
+Position: 2189
+Position: 2190
+Position: 2191
+Position: 2192
+Position: 2193
+Position: 2194
+Position: 2195
+Position: 2196
+Position: 2197
+Position: 2198
+Position: 2199
+Position: 2200
+Position: 2201
+Position: 2202
+Position: 2203
+Position: 2204
+Position: 2205
+Position: 2206
+Position: 2207
+Position: 2208
+Position: 2209
+Position: 2210
+Position: 2211
+Position: 2212
+Position: 2213
+Position: 2214
+Position: 2215
+Position: 2216
+Position: 2217
+Position: 2218
+Position: 2219
+Position: 2220
+Position: 2221
+Position: 2222
+Position: 2223
+Position: 2224
+Position: 2225
+Position: 2226
+Position: 2227
+Position: 2228
+Position: 2229
+Position: 2230
+Position: 2231
+Position: 2232
+Position: 2233
+Position: 2234
+Position: 2235
+Position: 2236
+Position: 2237
+Position: 2238
+Position: 2239
+Position: 2240
+Position: 2241
+Position: 2242
+Position: 2243
+Position: 2244
+Position: 2245
+Position: 2246
+Position: 2247
+Position: 2248
+Position: 2249
+Position: 2250
+Position: 2251
+Position: 2252
+Position: 2253
+Position: 2254
+Position: 2255
+Position: 2256
+Position: 2257
+Position: 2258
+Position: 2259
+Position: 2260
+Position: 2261
+Position: 2262
+Position: 2263
+Position: 2264
+Position: 2265
+Position: 2266
+Position: 2267
+Position: 2268
+Position: 2269
+Position: 2270
+Position: 2271
+Position: 2272
+Position: 2273
+Position: 2274
+Position: 2275
+Position: 2276
+Position: 2277
+Position: 2278
+Position: 2279
+Position: 2280
+Position: 2281
+Position: 2282
+Position: 2283
+Position: 2284
+Position: 2285
+Position: 2286
+Position: 2287
+Position: 2288
+Position: 2289
+Position: 2290
+Position: 2291
+Position: 2292
+Position: 2293
+Position: 2294
+Position: 2295
+Position: 2296
+Position: 2297
+Position: 2298
+Position: 2299
+Position: 2300
+Position: 2301
+Position: 2302
+Position: 2303
+Position: 2304
+Position: 2305
+Position: 2306
+Position: 2307
+Position: 2308
+Position: 2309
+Position: 2310
+Position: 2311
+Position: 2312
+Position: 2313
+Position: 2314
+Position: 2315
+Position: 2316
+Position: 2317
+Position: 2318
+Position: 2319
+Position: 2320
+Position: 2321
+Position: 2322
+Position: 2323
+Position: 2324
+Position: 2325
+Position: 2326
+Position: 2327
+Position: 2328
+Position: 2329
+Action 8:04:25: UnpublishFeatures. Unpublishing Product Features
+Feature: Unpublishing Product Features
+DoStep
+Position: 2330
+Position: 2331
+Position: 2332
+Position: 2333
+Position: 2334
+Position: 2335
+Position: 2336
+Position: 2337
+Position: 2338
+Position: 2339
+Position: 2340
+Position: 2341
+Position: 2342
+Position: 2343
+Action 8:04:25: SchedSecureObjectsRollback. 
+Action 8:04:25: ExecSecureObjectsRollback. 
+
+DoStep
+Position: 2344
+Position: 2345
+Action 8:04:25: ExecSecureObjectsRollback. 
+
+DoStep
+Position: 2346
+Position: 2347
+Action 8:04:25: ExecSecureObjectsRollback. 
+
+DoStep
+Position: 2348
+Position: 2349
+Action 8:04:25: ExecSecureObjectsRollback. 
+
+DoStep
+Position: 2350
+Position: 2351
+Action 8:04:25: RemoveRegistryValues. Removing system registry values
+Key: Removing system registry values, Name: 
+DoStep
+Position: 2352
+Position: 2353
+Position: 2354
+Position: 2355
+Position: 2356
+Position: 2357
+Position: 2358
+Position: 2359
+Position: 2360
+Position: 2361
+Position: 2362
+Position: 2363
+Position: 2364
+Action 8:04:25: RemoveShortcuts. Removing shortcuts
+Shortcut: Removing shortcuts
+DoStep
+Position: 2365
+Position: 2366
+Position: 2367
+Position: 2368
+Action 8:04:25: RemoveFiles. Removing files
+File: Removing files, Directory: 
+DoStep
+Position: 2369
+Position: 2370
+Position: 2371
+Position: 2372
+Position: 2373
+Position: 2374
+Position: 2375
+Position: 2376
+Position: 2377
+Position: 2378
+Position: 2379
+Position: 2380
+Position: 2381
+Position: 2382
+Position: 2383
+Position: 2384
+Position: 2385
+Position: 2386
+Position: 2387
+Position: 2388
+Position: 2389
+Position: 2390
+Position: 2391
+Position: 2392
+Position: 2393
+Position: 2394
+Position: 2395
+Position: 2396
+Position: 2397
+Position: 2398
+Position: 2399
+Position: 2400
+Position: 2401
+Position: 2402
+Position: 2403
+Position: 2404
+Position: 2405
+Position: 2406
+Position: 2407
+Position: 2408
+Position: 2409
+Position: 2410
+Position: 2411
+Position: 2412
+Position: 2413
+Position: 2414
+Position: 2415
+Position: 2416
+Position: 2417
+Position: 2418
+Position: 2419
+Position: 2420
+Position: 2421
+Position: 2422
+Position: 2423
+Position: 2424
+Position: 2425
+Position: 2426
+Position: 2427
+Position: 2428
+Position: 2429
+Position: 2430
+Position: 2431
+Position: 2432
+Position: 2433
+Position: 2434
+Position: 2435
+Position: 2436
+Position: 2437
+Position: 2438
+Position: 2439
+Position: 2440
+Position: 2441
+Position: 2442
+Position: 2443
+Position: 2444
+Position: 2445
+Position: 2446
+Position: 2447
+Position: 2448
+Position: 2449
+Position: 2450
+Position: 2451
+Position: 2452
+Position: 2453
+Position: 2454
+Position: 2455
+Position: 2456
+Position: 2457
+Position: 2458
+Position: 2459
+Position: 2460
+Position: 2461
+Position: 2462
+Position: 2463
+Position: 2464
+Position: 2465
+Position: 2466
+Position: 2467
+Position: 2468
+Position: 2469
+Position: 2470
+Position: 2471
+Position: 2472
+Position: 2473
+Position: 2474
+Position: 2475
+Position: 2476
+Position: 2477
+Position: 2478
+Position: 2479
+Position: 2480
+Position: 2481
+Position: 2482
+Position: 2483
+Position: 2484
+Position: 2485
+Position: 2486
+Position: 2487
+Position: 2488
+Position: 2489
+Position: 2490
+Position: 2491
+Position: 2492
+Position: 2493
+Position: 2494
+Position: 2495
+Position: 2496
+Position: 2497
+Position: 2498
+Position: 2499
+Position: 2500
+Position: 2501
+Position: 2502
+Position: 2503
+Position: 2504
+Position: 2505
+Position: 2506
+Position: 2507
+Position: 2508
+Position: 2509
+Position: 2510
+Position: 2511
+Position: 2512
+Position: 2513
+Position: 2514
+Position: 2515
+Position: 2516
+Position: 2517
+Position: 2518
+Position: 2519
+Position: 2520
+Position: 2521
+Position: 2522
+Position: 2523
+Position: 2524
+Position: 2525
+Position: 2526
+Position: 2527
+Position: 2528
+Position: 2529
+Position: 2530
+Position: 2531
+Position: 2532
+Position: 2533
+Position: 2534
+Position: 2535
+Position: 2536
+Position: 2537
+Position: 2538
+Position: 2539
+Position: 2540
+Position: 2541
+Position: 2542
+Position: 2543
+Position: 2544
+Position: 2545
+Position: 2546
+Position: 2547
+Position: 2548
+Position: 2549
+Position: 2550
+Position: 2551
+Position: 2552
+Position: 2553
+Position: 2554
+Position: 2555
+Position: 2556
+Position: 2557
+Position: 2558
+Position: 2559
+Position: 2560
+Position: 2561
+Position: 2562
+Position: 2563
+Position: 2564
+Position: 2565
+Position: 2566
+Position: 2567
+Position: 2568
+Position: 2569
+Position: 2570
+Position: 2571
+Position: 2572
+Position: 2573
+Position: 2574
+Position: 2575
+Position: 2576
+Position: 2577
+Position: 2578
+Position: 2579
+Position: 2580
+Position: 2581
+Position: 2582
+Position: 2583
+Position: 2584
+Position: 2585
+Position: 2586
+Position: 2587
+Position: 2588
+Position: 2589
+Position: 2590
+Position: 2591
+Position: 2592
+Position: 2593
+Position: 2594
+Position: 2595
+Position: 2596
+Position: 2597
+Position: 2598
+Position: 2599
+Position: 2600
+Position: 2601
+Position: 2602
+Position: 2603
+Position: 2604
+Position: 2605
+Position: 2606
+Position: 2607
+Position: 2608
+Position: 2609
+Position: 2610
+Position: 2611
+Position: 2612
+Position: 2613
+Position: 2614
+Position: 2615
+Position: 2616
+Position: 2617
+Position: 2618
+Position: 2619
+Position: 2620
+Position: 2621
+Position: 2622
+Position: 2623
+Position: 2624
+Position: 2625
+Position: 2626
+Position: 2627
+Position: 2628
+Position: 2629
+Position: 2630
+Position: 2631
+Position: 2632
+Position: 2633
+Position: 2634
+Position: 2635
+Position: 2636
+Position: 2637
+Position: 2638
+Position: 2639
+Position: 2640
+Position: 2641
+Position: 2642
+Position: 2643
+Position: 2644
+Position: 2645
+Position: 2646
+Position: 2647
+Position: 2648
+Position: 2649
+Position: 2650
+Position: 2651
+Position: 2652
+Position: 2653
+Position: 2654
+Position: 2655
+Position: 2656
+Position: 2657
+Position: 2658
+Position: 2659
+Position: 2660
+Position: 2661
+Position: 2662
+Position: 2663
+Position: 2664
+Position: 2665
+Position: 2666
+Position: 2667
+Position: 2668
+Position: 2669
+Position: 2670
+Position: 2671
+Position: 2672
+Position: 2673
+Position: 2674
+Position: 2675
+Position: 2676
+Position: 2677
+Position: 2678
+Position: 2679
+Position: 2680
+Position: 2681
+Position: 2682
+Position: 2683
+Position: 2684
+Position: 2685
+Position: 2686
+Position: 2687
+Position: 2688
+Position: 2689
+Position: 2690
+Position: 2691
+Position: 2692
+Position: 2693
+Position: 2694
+Position: 2695
+Position: 2696
+Position: 2697
+Position: 2698
+Position: 2699
+Position: 2700
+Position: 2701
+Position: 2702
+Position: 2703
+Position: 2704
+Position: 2705
+Position: 2706
+Position: 2707
+Position: 2708
+Position: 2709
+Position: 2710
+Position: 2711
+Position: 2712
+Position: 2713
+Position: 2714
+Position: 2715
+Position: 2716
+Position: 2717
+Position: 2718
+Position: 2719
+Position: 2720
+Position: 2721
+Position: 2722
+Position: 2723
+Position: 2724
+Position: 2725
+Position: 2726
+Position: 2727
+Position: 2728
+Position: 2729
+Position: 2730
+Position: 2731
+Position: 2732
+Position: 2733
+Position: 2734
+Position: 2735
+Position: 2736
+Position: 2737
+Position: 2738
+Position: 2739
+Action 8:04:26: RemoveFolders. Removing folders
+Folder: Removing folders
+DoStep
+Position: 2740
+Position: 2741
+Position: 2742
+Action 8:04:26: CreateFolders. Creating folders
+Action 8:04:26: InstallFiles. Copying new files
+Action 8:04:26: CreateShortcuts. Creating shortcuts
+Action 8:04:26: WriteRegistryValues. Writing system registry values
+Action 8:04:26: InstallServices. Installing new services
+Action 8:04:26: RegisterUser. Registering user
+Action 8:04:26: RegisterProduct. Registering product
+Action 8:04:26: PublishFeatures. Publishing Product Features
+Action 8:04:26: PublishProduct. Publishing product information
+Position: 2743
+Position: 2744
+Position: 2745
+Position: 2746
+Position: 2747
+Action 8:04:26: InstallFinalize. 
+Min: 0 Max: 57576600
+Position: 57576600
+Action 8:04:26: InstallInitialize. 
+Action 8:04:26: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 8:04:27: UnpublishFeatures. Unpublishing Product Features
+Feature: RegKeys
+DoStep
+Feature: Client
+DoStep
+Feature: MYSQLSERVER
+DoStep
+Feature: SharedLibraries
+DoStep
+Feature: DEVEL
+DoStep
+Feature: DOCUMENTATION
+DoStep
+Feature: IniFiles
+DoStep
+Feature: MISC
+DoStep
+Feature: Server_Scripts
+DoStep
+Feature: Readme
+DoStep
+Feature: ALWAYSINSTALL
+DoStep
+Feature: ProgramMenu
+DoStep
+Feature: UserEditableDataFiles
+DoStep
+Action 8:04:27: ExecSecureObjectsRollback. 
+Action 8:04:27: ExecSecureObjectsRollback. 
+Action 8:04:27: ExecSecureObjectsRollback. 
+Action 8:04:27: ExecSecureObjectsRollback. 
+Action 8:04:27: RemoveRegistryValues. Removing system registry values
+Step: 13200
+Position: 0
+Key: \Console\MySQL 5.6 Command Line Client - Unicode, Name: FaceName
+DoStep
+Position: 0
+Key: \Console\MySQL 5.6 Command Line Client - Unicode, Name: FontWeight
+DoStep
+Position: 0
+Key: \Console\MySQL 5.6 Command Line Client - Unicode, Name: 
+DoStep
+Position: 0
+Key: \Software\MySQL AB\MySQL Server 5.6, Name: installed
+DoStep
+Position: 0
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.6, Name: Location
+DoStep
+Position: 0
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.6, Name: Version
+DoStep
+Position: 0
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.6, Name: DataLocation
+DoStep
+Position: 0
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.6, Name: 
+DoStep
+Action 8:04:27: RemoveShortcuts. Removing shortcuts
+Shortcut: ewo_tetn|MySQL 5.6 Command Line Client
+DoStep
+Shortcut: 3oirwn95|MySQL 5.6 Command Line Client - Unicode
+DoStep
+Action 8:04:27: RemoveFiles. Removing files
+Step: 175000
+Position: 0
+File: innochecksum.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqld.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: my_print_defaults.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: perror.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: resolveip.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: adt_null.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: auth.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: auth_test_plugin.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: connection_control.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: libdaemon_example.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: mypluglib.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: mysql_no_login.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: qa_auth_client.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: qa_auth_interface.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: qa_auth_server.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: semisync_master.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: semisync_slave.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: test_udf_services.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: validate_password.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\
+DoStep
+Position: 0
+File: dictionary.txt, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\bulgarian\
+DoStep
+Position: 0
+File: armscii8.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\czech\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\danish\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\dutch\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\english\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\estonian\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\french\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\german\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\greek\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\hungarian\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\italian\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\japanese\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\korean\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\norwegian\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\norwegian-ny\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\polish\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\portuguese\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\romanian\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\russian\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\serbian\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\slovak\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\spanish\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\swedish\
+DoStep
+Position: 0
+File: errmsg.sys, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\ukrainian\
+DoStep
+Position: 0
+File: myisamchk.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: myisamlog.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: myisampack.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: myisam_ftdump.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysql.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqladmin.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqlbinlog.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqlcheck.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqldump.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqlimport.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqlshow.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqlslap.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysql_config_editor.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysql_embedded.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysql_plugin.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysql_tzinfo_to_sql.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysql_upgrade.exe, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: ibdata1, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\
+DoStep
+Position: 0
+File: columns_priv.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: accounts.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: mysql_config.pl, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: big_endian.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: client_authentication.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: mysql_file.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\
+DoStep
+Position: 0
+File: mysqlclient.lib, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\
+DoStep
+Position: 0
+File: libmysql.dll, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\
+DoStep
+Position: 0
+File: libmysql.lib, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\
+DoStep
+Position: 0
+File: ChangeLog, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\docs\
+DoStep
+Position: 0
+File: my-default.ini, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\
+DoStep
+Position: 0
+File: COPYING, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\
+DoStep
+Position: 0
+File: mysqldumpslow.pl, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: errmsg-utf8.txt, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\
+DoStep
+Position: 0
+File: fill_help_tables.sql, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\
+DoStep
+Position: 0
+File: innodb_memcached_config.sql, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\
+DoStep
+Position: 0
+File: mysql_security_commands.sql, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\
+DoStep
+Position: 0
+File: mysql_system_tables.sql, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\
+DoStep
+Position: 0
+File: mysql_system_tables_data.sql, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\
+DoStep
+Position: 0
+File: mysql_test_data_timezone.sql, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\
+DoStep
+Position: 0
+File: ascii.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: cp1250.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: cp1251.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: cp1256.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: cp1257.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: cp850.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: cp852.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: cp866.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: dec8.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: geostd8.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: greek.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: hebrew.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: hp8.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: Index.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: keybcs2.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: koi8r.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: koi8u.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: latin1.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: latin2.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: latin5.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: latin7.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: macce.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: macroman.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: README, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: swe7.xml, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\
+DoStep
+Position: 0
+File: ib_logfile0, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\
+DoStep
+Position: 0
+File: ib_logfile1, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\
+DoStep
+Position: 0
+File: columns_priv.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: columns_priv.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: db.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: db.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: db.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: event.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: event.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: event.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: func.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: func.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: func.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: general_log.CSM, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: general_log.CSV, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: general_log.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_category.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_category.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_category.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_keyword.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_keyword.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_keyword.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_relation.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_relation.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_relation.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_topic.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_topic.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: help_topic.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: innodb_index_stats.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: innodb_index_stats.ibd, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: innodb_table_stats.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: innodb_table_stats.ibd, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: ndb_binlog_index.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: ndb_binlog_index.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: ndb_binlog_index.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: plugin.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: plugin.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: plugin.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: proc.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: proc.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: proc.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: procs_priv.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: procs_priv.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: procs_priv.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: proxies_priv.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: proxies_priv.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: proxies_priv.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: servers.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: servers.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: servers.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slave_master_info.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slave_master_info.ibd, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slave_relay_log_info.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slave_relay_log_info.ibd, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slave_worker_info.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slave_worker_info.ibd, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slow_log.CSM, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slow_log.CSV, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: slow_log.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: tables_priv.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: tables_priv.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: tables_priv.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_leap_second.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_leap_second.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_leap_second.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_name.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_name.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_transition.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_transition.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_transition.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_transition_type.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_transition_type.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: time_zone_transition_type.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: user.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: user.MYD, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: user.MYI, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\
+DoStep
+Position: 0
+File: cond_instances.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: db.opt, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_stages_current.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_stages_history.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_stages_history_long.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_stages_summary_by_account_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_stages_summary_by_host_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_stages_summary_by_thread_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_stages_summary_by_user_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_stages_summary_global_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_current.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_history.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_history_long.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_summary_by_account_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_summary_by_digest.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_summary_by_host_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_summary_by_thread_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_summary_by_user_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_statements_summary_global_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_current.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_history.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_history_long.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_summary_by_account_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_summary_by_host_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_summary_by_instance.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_summary_by_thread_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_summary_by_user_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: events_waits_summary_global_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: file_instances.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: file_summary_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: file_summary_by_instance.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: hosts.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: host_cache.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: mutex_instances.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: objects_summary_global_by_type.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: performance_timers.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: rwlock_instances.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: session_account_connect_attrs.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: session_connect_attrs.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: setup_actors.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: setup_consumers.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: setup_instruments.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: setup_objects.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: setup_timers.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: socket_instances.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: socket_summary_by_event_name.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: socket_summary_by_instance.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: table_io_waits_summary_by_index_usage.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: table_io_waits_summary_by_table.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: table_lock_waits_summary_by_table.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: threads.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: users.frm, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\
+DoStep
+Position: 0
+File: byte_order_generic.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: byte_order_generic_x86.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: byte_order_generic_x86_64.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: decimal.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: errmsg.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: keycache.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: little_endian.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: mysql.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: mysqld_ername.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: mysqld_error.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: mysql_com.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: mysql_com_server.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: mysql_embed.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: mysql_time.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: mysql_version.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_alloc.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_attribute.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_byteorder.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_compiler.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_config.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_dbug.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_dir.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_getopt.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_global.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_list.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_net.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_pthread.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_sys.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: my_xml.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: m_ctype.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: m_string.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: plugin.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: plugin_audit.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: plugin_ftparser.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: plugin_validate_password.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: sql_common.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: sql_state.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: sslopt-case.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: sslopt-longopts.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: sslopt-vars.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: typelib.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\
+DoStep
+Position: 0
+File: client_plugin.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: client_plugin.h.pp, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: get_password.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: innodb_priv.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin_audit.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin_audit.h.pp, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin_auth.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin_auth.h.pp, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin_auth_common.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin_ftparser.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin_ftparser.h.pp, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: plugin_validate_password.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: services.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: service_mysql_string.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: service_my_plugin_log.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: service_my_snprintf.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: service_thd_alloc.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: service_thd_wait.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: service_thread_scheduler.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: thread_pool_priv.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\
+DoStep
+Position: 0
+File: mysql_idle.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\
+DoStep
+Position: 0
+File: mysql_socket.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\
+DoStep
+Position: 0
+File: mysql_stage.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\
+DoStep
+Position: 0
+File: mysql_statement.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\
+DoStep
+Position: 0
+File: mysql_table.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\
+DoStep
+Position: 0
+File: mysql_thread.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\
+DoStep
+Position: 0
+File: psi.h, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\
+DoStep
+Position: 0
+File: INFO_SRC, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\docs\
+DoStep
+Position: 0
+File: README, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\
+DoStep
+Position: 0
+File: mysqld_multi.pl, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysqlhotcopy.pl, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysql_convert_table_format.pl, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Position: 0
+File: mysql_secure_installation.pl, Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\
+DoStep
+Step: 175000
+Position: 0
+File: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MySQL\MySQL Server 5.6\, Directory: 
+DoStep
+Position: 0
+File: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MySQL\, Directory: 
+DoStep
+Action 8:04:32: RemoveFolders. Removing folders
+Folder: C:\ProgramData\MySQL\MySQL Server 5.6\
+DoStep
+Folder: C:\ProgramData\MySQL\MySQL Server 5.6\data\test\
+DoStep
+Action 8:04:32: PublishProduct. Publishing product information
+1: MySQL Server 5.6 2: {970B8058-6355-4AC7-BD49-FE5E282559C6} 3: 1 
+Action 8:04:32: ProcessComponents. Updating component registration
+Position: 0
+Action 8:04:32: GenerateScript. Generating script operations for action:
+Position: 1
+Position: 2
+Updating component registration
+DoStep
+Position: 3
+Position: 4
+Position: 5
+Position: 6
+Position: 7
+Position: 8
+Position: 9
+Position: 10
+Position: 11
+Position: 12
+Position: 13
+Position: 14
+Position: 15
+Position: 16
+Position: 17
+Position: 18
+Position: 19
+Position: 20
+Position: 21
+Position: 22
+Position: 23
+Position: 24
+Position: 25
+Position: 26
+Position: 27
+Position: 28
+Position: 29
+Position: 30
+Position: 31
+Position: 32
+Position: 33
+Position: 34
+Position: 35
+Position: 36
+Position: 37
+Position: 38
+Position: 39
+Position: 40
+Position: 41
+Position: 42
+Position: 43
+Position: 44
+Position: 45
+Position: 46
+Position: 47
+Position: 48
+Position: 49
+Position: 50
+Position: 51
+Position: 52
+Position: 53
+Position: 54
+Position: 55
+Position: 56
+Position: 57
+Position: 58
+Position: 59
+Position: 60
+Position: 61
+Position: 62
+Position: 63
+Position: 64
+Position: 65
+Position: 66
+Position: 67
+Position: 68
+Position: 69
+Position: 70
+Position: 71
+Position: 72
+Position: 73
+Position: 74
+Position: 75
+Position: 76
+Position: 77
+Position: 78
+Position: 79
+Position: 80
+Position: 81
+Position: 82
+Position: 83
+Position: 84
+Position: 85
+Position: 86
+Position: 87
+Position: 88
+Position: 89
+Position: 90
+Action 8:04:33: UnpublishFeatures. Unpublishing Product Features
+Action 8:04:33: SchedSecureObjectsRollback. 
+Action 8:04:33: ExecSecureObjectsRollback. 
+
+DoStep
+Position: 91
+Position: 92
+Action 8:04:33: ExecSecureObjectsRollback. 
+
+DoStep
+Position: 93
+Position: 94
+Action 8:04:33: ExecSecureObjectsRollback. 
+
+DoStep
+Position: 95
+Position: 96
+Action 8:04:33: ExecSecureObjectsRollback. 
+
+DoStep
+Position: 97
+Position: 98
+Action 8:04:33: RemoveRegistryValues. Removing system registry values
+Action 8:04:33: RemoveShortcuts. Removing shortcuts
+Action 8:04:33: RemoveFiles. Removing files
+Action 8:04:33: RemoveFolders. Removing folders
+Action 8:04:33: CreateFolders. Creating folders
+Folder: Creating folders
+DoStep
+Position: 99
+Position: 100
+Position: 101
+Action 8:04:33: InstallFiles. Copying new files
+File: Copying new files,  Directory: ,  Size: 
+DoStep
+Position: 102
+Position: 103
+Position: 104
+Position: 105
+Position: 106
+Position: 107
+Position: 108
+Position: 109
+Position: 110
+Position: 111
+Position: 112
+Position: 113
+Position: 114
+Position: 115
+Position: 116
+Position: 117
+Position: 118
+Position: 119
+Position: 120
+Position: 121
+Position: 122
+Position: 123
+Position: 124
+Position: 125
+Position: 126
+Position: 127
+Position: 128
+Position: 129
+Position: 130
+Position: 131
+Position: 132
+Position: 133
+Position: 134
+Position: 135
+Position: 136
+Position: 137
+Position: 138
+Position: 139
+Position: 140
+Position: 141
+Position: 142
+Position: 143
+Position: 144
+Position: 145
+Position: 146
+Position: 147
+Position: 148
+Position: 149
+Position: 150
+Position: 151
+Position: 152
+Position: 153
+Position: 154
+Position: 155
+Position: 156
+Position: 157
+Position: 158
+Position: 159
+Position: 160
+Position: 161
+Position: 162
+Position: 163
+Position: 164
+Position: 165
+Position: 166
+Position: 167
+Position: 168
+Position: 169
+Position: 170
+Position: 171
+Position: 172
+Position: 173
+Position: 174
+Position: 175
+Position: 176
+Position: 177
+Position: 178
+Position: 179
+Position: 180
+Position: 181
+Position: 182
+Position: 183
+Position: 184
+Position: 185
+Position: 186
+Position: 187
+Position: 188
+Position: 189
+Position: 190
+Position: 191
+Position: 192
+Position: 193
+Position: 194
+Position: 195
+Position: 196
+Position: 197
+Position: 198
+Position: 199
+Position: 200
+Position: 201
+Position: 202
+Position: 203
+Position: 204
+Position: 205
+Position: 206
+Position: 207
+Position: 208
+Position: 209
+Position: 210
+Position: 211
+Position: 212
+Position: 213
+Position: 214
+Position: 215
+Position: 216
+Position: 217
+Position: 218
+Position: 219
+Position: 220
+Position: 221
+Position: 222
+Position: 223
+Position: 224
+Position: 225
+Position: 226
+Position: 227
+Position: 228
+Position: 229
+Position: 230
+Position: 231
+Position: 232
+Position: 233
+Position: 234
+Position: 235
+Position: 236
+Position: 237
+Position: 238
+Position: 239
+Position: 240
+Position: 241
+Position: 242
+Position: 243
+Position: 244
+Position: 245
+Position: 246
+Position: 247
+Position: 248
+Position: 249
+Position: 250
+Position: 251
+Position: 252
+Position: 253
+Position: 254
+Position: 255
+Position: 256
+Position: 257
+Position: 258
+Position: 259
+Position: 260
+Position: 261
+Position: 262
+Position: 263
+Position: 264
+Position: 265
+Position: 266
+Position: 267
+Position: 268
+Position: 269
+Position: 270
+Position: 271
+Position: 272
+Position: 273
+Position: 274
+Position: 275
+Position: 276
+Position: 277
+Position: 278
+Position: 279
+Position: 280
+Position: 281
+Position: 282
+Position: 283
+Position: 284
+Position: 285
+Position: 286
+Position: 287
+Position: 288
+Position: 289
+Position: 290
+Position: 291
+Position: 292
+Position: 293
+Position: 294
+Position: 295
+Position: 296
+Position: 297
+Position: 298
+Position: 299
+Position: 300
+Position: 301
+Position: 302
+Position: 303
+Position: 304
+Position: 305
+Position: 306
+Position: 307
+Position: 308
+Position: 309
+Position: 310
+Position: 311
+Position: 312
+Position: 313
+Position: 314
+Position: 315
+Position: 316
+Position: 317
+Position: 318
+Position: 319
+Position: 320
+Position: 321
+Position: 322
+Position: 323
+Position: 324
+Position: 325
+Position: 326
+Position: 327
+Position: 328
+Position: 329
+Position: 330
+Position: 331
+Position: 332
+Position: 333
+Position: 334
+Position: 335
+Position: 336
+Position: 337
+Position: 338
+Position: 339
+Position: 340
+Position: 341
+Position: 342
+Position: 343
+Position: 344
+Position: 345
+Position: 346
+Position: 347
+Position: 348
+Position: 349
+Position: 350
+Position: 351
+Position: 352
+Position: 353
+Position: 354
+Position: 355
+Position: 356
+Position: 357
+Position: 358
+Position: 359
+Position: 360
+Position: 361
+Position: 362
+Position: 363
+Position: 364
+Position: 365
+Position: 366
+Position: 367
+Position: 368
+Position: 369
+Position: 370
+Position: 371
+Position: 372
+Position: 373
+Position: 374
+Position: 375
+Position: 376
+Position: 377
+Position: 378
+Position: 379
+Position: 380
+Position: 381
+Position: 382
+Position: 383
+Position: 384
+Position: 385
+Position: 386
+Position: 387
+Position: 388
+Position: 389
+Position: 390
+Position: 391
+Position: 392
+Position: 393
+Position: 394
+Position: 395
+Position: 396
+Position: 397
+Position: 398
+Position: 399
+Position: 400
+Position: 401
+Position: 402
+Position: 403
+Position: 404
+Position: 405
+Position: 406
+Position: 407
+Position: 408
+Position: 409
+Position: 410
+Position: 411
+Position: 412
+Position: 413
+Position: 414
+Position: 415
+Position: 416
+Position: 417
+Position: 418
+Position: 419
+Position: 420
+Position: 421
+Position: 422
+Position: 423
+Position: 424
+Position: 425
+Position: 426
+Position: 427
+Position: 428
+Position: 429
+Position: 430
+Position: 431
+Position: 432
+Position: 433
+Position: 434
+Position: 435
+Position: 436
+Position: 437
+Position: 438
+Position: 439
+Position: 440
+Position: 441
+Position: 442
+Position: 443
+Position: 444
+Position: 445
+Position: 446
+Position: 447
+Position: 448
+Position: 449
+Position: 450
+Position: 451
+Position: 452
+Position: 453
+Position: 454
+Position: 455
+Position: 456
+Position: 457
+Position: 458
+Position: 459
+Position: 460
+Position: 461
+Position: 462
+Position: 463
+Position: 464
+Position: 465
+Position: 466
+Position: 467
+Position: 468
+Position: 469
+Position: 470
+Position: 471
+Position: 472
+Position: 473
+Position: 474
+Position: 475
+Position: 476
+Position: 477
+Position: 478
+Position: 479
+Position: 480
+Position: 481
+Position: 482
+Position: 483
+Position: 484
+Position: 485
+Position: 486
+Position: 487
+Position: 488
+Position: 489
+Position: 490
+Position: 491
+Position: 492
+Position: 493
+Position: 494
+Position: 495
+Position: 496
+Position: 497
+Position: 498
+Position: 499
+Position: 500
+Position: 501
+Position: 502
+Position: 503
+Position: 504
+Position: 505
+Position: 506
+Position: 507
+Position: 508
+Position: 509
+Position: 510
+Position: 511
+Position: 512
+Action 8:04:34: CreateShortcuts. Creating shortcuts
+Shortcut: Creating shortcuts
+DoStep
+Position: 513
+Position: 514
+Position: 515
+Position: 516
+Position: 517
+Position: 518
+Action 8:04:34: WriteRegistryValues. Writing system registry values
+Key: Writing system registry values, Name: , Value: 
+DoStep
+Position: 519
+Position: 520
+Position: 521
+Position: 522
+Position: 523
+Position: 524
+Position: 525
+Position: 526
+Position: 527
+Position: 528
+Position: 529
+Position: 530
+Position: 531
+Action 8:04:34: InstallServices. Installing new services
+Action 8:04:34: SchedSecureObjects. 
+Action 8:04:34: ExecSecureObjects. 
+
+DoStep
+Position: 532
+Position: 533
+Action 8:04:34: RegisterUser. Registering user
+Action 8:04:34: RegisterProduct. Registering product
+Registering product
+DoStep
+Position: 534
+Position: 535
+Position: 536
+Position: 537
+Position: 538
+Action 8:04:34: PublishFeatures. Publishing Product Features
+Feature: Publishing Product Features
+DoStep
+Position: 539
+Position: 540
+Position: 541
+Position: 542
+Position: 543
+Position: 544
+Position: 545
+Position: 546
+Position: 547
+Position: 548
+Position: 549
+Position: 550
+Position: 551
+Position: 552
+Action 8:04:34: PublishProduct. Publishing product information
+Position: 553
+Position: 554
+Position: 555
+Position: 556
+Position: 557
+Position: 558
+Position: 559
+Position: 560
+Action 8:04:34: InstallFinalize. 
+Min: 0 Max: 280338492
+Action 8:04:34: ProcessComponents. Updating component registration
+Step: 24000
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Position: 0
+Action 8:04:34: ExecSecureObjectsRollback. 
+Action 8:04:34: ExecSecureObjectsRollback. 
+Action 8:04:34: ExecSecureObjectsRollback. 
+Action 8:04:34: ExecSecureObjectsRollback. 
+Action 8:04:34: CreateFolders. Creating folders
+Folder: C:\ProgramData\MySQL\MySQL Server 5.6\
+DoStep
+Folder: C:\ProgramData\MySQL\MySQL Server 5.6\data\test\
+DoStep
+Action 8:04:34: InstallFiles. Copying new files
+File: innochecksum.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3668480
+Position: 3668480
+File: my_print_defaults.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3662848
+Position: 7331328
+File: myisam_ftdump.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3930624
+Position: 11261952
+File: myisamchk.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4040192
+Position: 15302144
+File: myisamlog.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3888640
+Position: 19190784
+File: myisampack.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3954688
+Position: 23145472
+File: mysql.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4271104
+Position: 27416576
+File: mysql_config.pl,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 9103
+Position: 27425679
+File: mysql_config_editor.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4181504
+Position: 31607183
+File: mysql_convert_table_format.pl,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4468
+Position: 31611651
+File: mysql_embedded.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 11411968
+Position: 43023619
+File: mysql_plugin.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3673600
+Position: 46697219
+File: mysql_secure_installation.pl,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 10518
+Position: 46707737
+File: mysql_tzinfo_to_sql.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3608576
+Position: 50316313
+File: mysql_upgrade.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4315648
+Position: 54631961
+File: mysqladmin.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4189184
+Position: 58821145
+File: mysqlbinlog.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4333568
+Position: 63154713
+File: mysqlcheck.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4184576
+Position: 67339289
+File: mysqld.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 10823680
+Position: 78162969
+File: mysqld_multi.pl,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 27988
+Position: 78190957
+File: mysqldump.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4251648
+Position: 82442605
+File: mysqldumpslow.pl,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 7635
+Position: 82450240
+File: mysqlhotcopy.pl,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 36098
+Position: 82486338
+File: mysqlimport.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4178944
+Position: 86665282
+File: mysqlshow.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4179456
+Position: 90844738
+File: mysqlslap.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 4196864
+Position: 95041602
+File: perror.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3779584
+Position: 98821186
+File: resolveip.exe,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin\,  Size: 3661824
+Position: 102483010
+File: COPYING,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\,  Size: 17987
+Position: 102500997
+File: ib_logfile0,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\,  Size: 50331648
+Position: 152832645
+File: ib_logfile1,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\,  Size: 50331648
+Position: 203164293
+File: ibdata1,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\,  Size: 12582912
+Position: 215747205
+File: columns_priv.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8820
+Position: 215756025
+File: columns_priv.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: columns_priv.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 4096
+Position: 215760121
+File: db.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 9582
+Position: 215769703
+File: db.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 880
+Position: 215770583
+File: db.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 5120
+Position: 215775703
+File: event.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 10223
+Position: 215785926
+File: event.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: event.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 2048
+Position: 215787974
+File: func.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8665
+Position: 215796639
+File: func.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: func.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 215797663
+File: general_log.CSM,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 35
+Position: 215797698
+File: general_log.CSV,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: general_log.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8776
+Position: 215806474
+File: help_category.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8700
+Position: 215815174
+File: help_category.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1120
+Position: 215816294
+File: help_category.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 3072
+Position: 215819366
+File: help_keyword.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8612
+Position: 215827978
+File: help_keyword.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 121155
+Position: 215949133
+File: help_keyword.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 22528
+Position: 215971661
+File: help_relation.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8630
+Position: 215980291
+File: help_relation.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 11277
+Position: 215991568
+File: help_relation.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 20480
+Position: 216012048
+File: help_topic.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8770
+Position: 216020818
+File: help_topic.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 576876
+Position: 216597694
+File: help_topic.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 22528
+Position: 216620222
+File: innodb_index_stats.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 12982
+Position: 216633204
+File: innodb_index_stats.ibd,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 98304
+Position: 216731508
+File: innodb_table_stats.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8830
+Position: 216740338
+File: innodb_table_stats.ibd,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 98304
+Position: 216838642
+File: ndb_binlog_index.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8898
+Position: 216847540
+File: ndb_binlog_index.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: ndb_binlog_index.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 216848564
+File: plugin.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8586
+Position: 216857150
+File: plugin.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: plugin.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 216858174
+File: proc.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 9996
+Position: 216868170
+File: proc.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: proc.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 2048
+Position: 216870218
+File: procs_priv.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8875
+Position: 216879093
+File: procs_priv.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: procs_priv.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 4096
+Position: 216883189
+File: proxies_priv.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8800
+Position: 216891989
+File: proxies_priv.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 693
+Position: 216892682
+File: proxies_priv.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 5120
+Position: 216897802
+File: servers.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8838
+Position: 216906640
+File: servers.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: servers.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 216907664
+File: slave_master_info.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 10719
+Position: 216918383
+File: slave_master_info.ibd,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 98304
+Position: 217016687
+File: slave_relay_log_info.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 9334
+Position: 217026021
+File: slave_relay_log_info.ibd,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 98304
+Position: 217124325
+File: slave_worker_info.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 9230
+Position: 217133555
+File: slave_worker_info.ibd,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 98304
+Position: 217231859
+File: slow_log.CSM,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 35
+Position: 217231894
+File: slow_log.CSV,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: slow_log.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 9016
+Position: 217240910
+File: tables_priv.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8955
+Position: 217249865
+File: tables_priv.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: tables_priv.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 4096
+Position: 217253961
+File: time_zone.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8636
+Position: 217262597
+File: time_zone.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+Position: 217262597
+File: time_zone.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 217263621
+File: time_zone_leap_second.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8624
+Position: 217272245
+File: time_zone_leap_second.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: time_zone_leap_second.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 217273269
+File: time_zone_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8606
+Position: 217281875
+File: time_zone_name.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: time_zone_name.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 217282899
+File: time_zone_transition.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8686
+Position: 217291585
+File: time_zone_transition.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: time_zone_transition.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 217292609
+File: time_zone_transition_type.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 8748
+Position: 217301357
+File: time_zone_transition_type.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 0
+File: time_zone_transition_type.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 1024
+Position: 217302381
+File: user.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 10684
+Position: 217313065
+File: user.MYD,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 296
+Position: 217313361
+File: user.MYI,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\mysql\,  Size: 2048
+Position: 217315409
+File: accounts.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8706
+Position: 217324115
+File: cond_instances.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8624
+Position: 217332739
+File: db.opt,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 61
+Position: 217332800
+File: events_stages_current.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8991
+Position: 217341791
+File: events_stages_history.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8991
+Position: 217350782
+File: events_stages_history_long.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8991
+Position: 217359773
+File: events_stages_summary_by_account_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8874
+Position: 217368647
+File: events_stages_summary_by_host_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8844
+Position: 217377491
+File: events_stages_summary_by_thread_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8854
+Position: 217386345
+File: events_stages_summary_by_user_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8844
+Position: 217395189
+File: events_stages_summary_global_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8814
+Position: 217404003
+File: events_statements_history.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 10525
+Position: 217414528
+File: events_statements_history_long.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 10525
+Position: 217425053
+File: events_statements_summary_by_account_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 10000
+Position: 217435053
+File: events_statements_summary_by_digest.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 10102
+Position: 217445155
+File: events_statements_summary_by_host_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9970
+Position: 217455125
+File: events_statements_summary_by_thread_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9980
+Position: 217465105
+File: events_statements_summary_by_user_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9970
+Position: 217475075
+File: events_statements_summary_global_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9940
+Position: 217485015
+File: events_statements_current.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 10525
+Position: 217495540
+File: events_waits_current.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9389
+Position: 217504929
+File: events_waits_history.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9389
+Position: 217514318
+File: events_waits_history_long.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9389
+Position: 217523707
+File: events_waits_summary_by_account_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8874
+Position: 217532581
+File: events_waits_summary_by_host_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8844
+Position: 217541425
+File: events_waits_summary_by_instance.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8878
+Position: 217550303
+File: events_waits_summary_by_thread_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8854
+Position: 217559157
+File: events_waits_summary_by_user_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8844
+Position: 217568001
+File: events_waits_summary_global_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8814
+Position: 217576815
+File: file_instances.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8654
+Position: 217585469
+File: file_summary_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9740
+Position: 217595209
+File: file_summary_by_instance.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9844
+Position: 217605053
+File: host_cache.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 10483
+Position: 217615536
+File: hosts.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8676
+Position: 217624212
+File: mutex_instances.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8684
+Position: 217632896
+File: objects_summary_global_by_type.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8908
+Position: 217641804
+File: performance_timers.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8776
+Position: 217650580
+File: rwlock_instances.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8758
+Position: 217659338
+File: session_account_connect_attrs.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8716
+Position: 217668054
+File: session_connect_attrs.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8716
+Position: 217676770
+File: setup_actors.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8620
+Position: 217685390
+File: setup_consumers.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8605
+Position: 217693995
+File: setup_instruments.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8637
+Position: 217702632
+File: setup_objects.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8751
+Position: 217711383
+File: setup_timers.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8650
+Position: 217720033
+File: socket_instances.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8818
+Position: 217728851
+File: socket_summary_by_event_name.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9740
+Position: 217738591
+File: socket_summary_by_instance.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9804
+Position: 217748395
+File: table_io_waits_summary_by_index_usage.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 10578
+Position: 217758973
+File: table_io_waits_summary_by_table.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 10488
+Position: 217769461
+File: table_lock_waits_summary_by_table.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 13518
+Position: 217782979
+File: threads.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 9201
+Position: 217792180
+File: users.frm,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\data\performance_schema\,  Size: 8676
+Position: 217800856
+File: ChangeLog,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\docs\,  Size: 59309
+Position: 217860165
+File: INFO_SRC,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\docs\,  Size: 184
+Position: 217860349
+File: big_endian.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 4507
+Position: 217864856
+File: byte_order_generic.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 5196
+Position: 217870052
+File: byte_order_generic_x86.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 4286
+Position: 217874338
+File: byte_order_generic_x86_64.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 3764
+Position: 217878102
+File: decimal.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 5193
+Position: 217883295
+File: errmsg.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 4297
+Position: 217887592
+File: keycache.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 7078
+Position: 217894670
+File: little_endian.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 3411
+Position: 217898081
+File: m_ctype.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 33447
+Position: 217931528
+File: m_string.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 9540
+Position: 217941068
+File: my_alloc.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1924
+Position: 217942992
+File: my_attribute.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1808
+Position: 217944800
+File: my_byteorder.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1979
+Position: 217946779
+File: my_compiler.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 4236
+Position: 217951015
+File: my_config.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 18294
+Position: 217969309
+File: my_dbug.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 8204
+Position: 217977513
+File: my_dir.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 3573
+Position: 217981086
+File: my_getopt.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 6127
+Position: 217987213
+File: my_global.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 33101
+Position: 218020314
+File: my_list.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1506
+Position: 218021820
+File: my_net.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 2065
+Position: 218023885
+File: my_pthread.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 31321
+Position: 218055206
+File: my_sys.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 41300
+Position: 218096506
+File: my_xml.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 2821
+Position: 218099327
+File: mysql.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 29129
+Position: 218128456
+File: client_authentication.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 333
+Position: 218128789
+File: client_plugin.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 5595
+Position: 218134384
+File: client_plugin.h.pp,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 1986
+Position: 218136370
+File: mysql_com.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 23640
+Position: 218160010
+File: mysql_com_server.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1313
+Position: 218161323
+File: mysql_embed.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1185
+Position: 218162508
+File: get_password.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 1198
+Position: 218163706
+File: innodb_priv.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 1391
+Position: 218165097
+File: plugin.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 24201
+Position: 218189298
+File: plugin_audit.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 4142
+Position: 218193440
+File: plugin_audit.h.pp,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 10320
+Position: 218203760
+File: plugin_auth.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 3409
+Position: 218207169
+File: plugin_auth.h.pp,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 10159
+Position: 218217328
+File: plugin_auth_common.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 4431
+Position: 218221759
+File: plugin_ftparser.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 7589
+Position: 218229348
+File: plugin_ftparser.h.pp,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 9058
+Position: 218238406
+File: plugin_validate_password.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 1576
+Position: 218239982
+File: mysql_file.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\,  Size: 38857
+Position: 218278839
+File: mysql_idle.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\,  Size: 2518
+Position: 218281357
+File: mysql_socket.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\,  Size: 31199
+Position: 218312556
+File: mysql_stage.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\,  Size: 1915
+Position: 218314471
+File: mysql_statement.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\,  Size: 6251
+Position: 218320722
+File: mysql_table.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\,  Size: 6571
+Position: 218327293
+File: mysql_thread.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\,  Size: 32248
+Position: 218359541
+File: psi.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\psi\,  Size: 68525
+Position: 218428066
+File: service_my_plugin_log.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 1678
+Position: 218429744
+File: service_my_snprintf.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 3361
+Position: 218433105
+File: service_mysql_string.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 5348
+Position: 218438453
+File: service_thd_alloc.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 4379
+Position: 218442832
+File: service_thd_wait.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 3675
+Position: 218446507
+File: service_thread_scheduler.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 1869
+Position: 218448376
+File: services.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 1124
+Position: 218449500
+File: thread_pool_priv.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\mysql\,  Size: 5072
+Position: 218454572
+File: mysql_time.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 2172
+Position: 218456744
+File: mysql_version.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 922
+Position: 218457666
+File: mysqld_ername.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 95805
+Position: 218553471
+File: mysqld_error.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 35620
+Position: 218589091
+File: plugin.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 24201
+Position: 218613292
+File: plugin_audit.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 4142
+Position: 218617434
+File: plugin_ftparser.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 7589
+Position: 218625023
+File: plugin_validate_password.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1576
+Position: 218626599
+File: sql_common.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 4859
+Position: 218631458
+File: sql_state.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 13559
+Position: 218645017
+File: sslopt-case.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1715
+Position: 218646732
+File: sslopt-longopts.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 2666
+Position: 218649398
+File: sslopt-vars.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 1488
+Position: 218650886
+File: typelib.h,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\include\,  Size: 2282
+Position: 218653168
+File: libmysql.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\,  Size: 4164608
+Position: 222817776
+File: libmysql.lib,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\,  Size: 27538
+Position: 222845314
+File: mysqlclient.lib,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\,  Size: 18171468
+Position: 241016782
+File: adt_null.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 19456
+Position: 241036238
+File: auth.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 19968
+Position: 241056206
+File: auth_test_plugin.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 19456
+Position: 241075662
+File: connection_control.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 73728
+Position: 241149390
+File: libdaemon_example.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 20480
+Position: 241169870
+File: mypluglib.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 19456
+Position: 241189326
+File: mysql_no_login.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 17920
+Position: 241207246
+File: qa_auth_client.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 18432
+Position: 241225678
+File: qa_auth_interface.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 19968
+Position: 241245646
+File: qa_auth_server.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 18432
+Position: 241264078
+File: semisync_master.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 52736
+Position: 241316814
+File: semisync_slave.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 31232
+Position: 241348046
+File: test_udf_services.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 17920
+Position: 241365966
+File: validate_password.dll,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\lib\plugin\,  Size: 70656
+Position: 241436622
+File: my-default.ini,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\,  Size: 1141
+Position: 241437763
+File: README,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\,  Size: 2496
+Position: 241440259
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\bulgarian\,  Size: 60548
+Position: 241500807
+File: armscii8.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5523
+Position: 241506330
+File: ascii.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5509
+Position: 241511839
+File: cp1250.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 8238
+Position: 241520077
+File: cp1251.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 8365
+Position: 241528442
+File: cp1256.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5566
+Position: 241534008
+File: cp1257.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 8899
+Position: 241542907
+File: cp850.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5503
+Position: 241548410
+File: cp852.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5525
+Position: 241553935
+File: cp866.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5610
+Position: 241559545
+File: dec8.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 6526
+Position: 241566071
+File: geostd8.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5513
+Position: 241571584
+File: greek.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5725
+Position: 241577309
+File: hebrew.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5514
+Position: 241582823
+File: hp8.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5499
+Position: 241588322
+File: Index.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 18305
+Position: 241606627
+File: keybcs2.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5526
+Position: 241612153
+File: koi8r.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5507
+Position: 241617660
+File: koi8u.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 6529
+Position: 241624189
+File: latin1.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 9815
+Position: 241634004
+File: latin2.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 7237
+Position: 241641241
+File: latin5.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 5514
+Position: 241646755
+File: latin7.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 7437
+Position: 241654192
+File: macce.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 8046
+Position: 241662238
+File: macroman.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 8057
+Position: 241670295
+File: README,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 1749
+Position: 241672044
+File: swe7.xml,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\charsets\,  Size: 6529
+Position: 241678573
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\czech\,  Size: 61080
+Position: 241739653
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\danish\,  Size: 61087
+Position: 241800740
+File: dictionary.txt,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\,  Size: 25575
+Position: 241826315
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\dutch\,  Size: 62086
+Position: 241888401
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\english\,  Size: 60260
+Position: 241948661
+File: errmsg-utf8.txt,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\,  Size: 506007
+Position: 242454668
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\estonian\,  Size: 60563
+Position: 242515231
+File: fill_help_tables.sql,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\,  Size: 795760
+Position: 243310991
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\french\,  Size: 61723
+Position: 243372714
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\german\,  Size: 68043
+Position: 243440757
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\greek\,  Size: 67072
+Position: 243507829
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\hungarian\,  Size: 60950
+Position: 243568779
+File: innodb_memcached_config.sql,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\,  Size: 3963
+Position: 243572742
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\italian\,  Size: 62113
+Position: 243634855
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\japanese\,  Size: 67788
+Position: 243702643
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\korean\,  Size: 63384
+Position: 243766027
+File: mysql_security_commands.sql,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\,  Size: 1695
+Position: 243767722
+File: mysql_system_tables.sql,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\,  Size: 93241
+Position: 243860963
+File: mysql_system_tables_data.sql,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\,  Size: 3548
+Position: 243864511
+File: mysql_test_data_timezone.sql,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\,  Size: 10410
+Position: 243874921
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\norwegian\,  Size: 60351
+Position: 243935272
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\norwegian-ny\,  Size: 60404
+Position: 243995676
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\polish\,  Size: 60989
+Position: 244056665
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\portuguese\,  Size: 63316
+Position: 244119981
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\romanian\,  Size: 62037
+Position: 244182018
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\russian\,  Size: 75951
+Position: 244257969
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\serbian\,  Size: 62737
+Position: 244320706
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\slovak\,  Size: 60807
+Position: 244381513
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\spanish\,  Size: 61945
+Position: 244443458
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\swedish\,  Size: 61156
+Position: 244504614
+File: errmsg.sys,  Directory: C:\Program Files (x86)\MySQL\MySQL Server 5.6\share\ukrainian\,  Size: 70350
+Position: 244574964
+Action 8:04:41: CreateShortcuts. Creating shortcuts
+Shortcut: icon.ico
+DoStep
+Shortcut: Icon.MysqlCmdShell
+DoStep
+Shortcut: ewo_tetn|MySQL 5.6 Command Line Client
+DoStep
+Shortcut: 3oirwn95|MySQL 5.6 Command Line Client - Unicode
+DoStep
+Action 8:04:42: WriteRegistryValues. Writing system registry values
+Step: 13200
+Position: 244574964
+Key: \Console\MySQL 5.6 Command Line Client - Unicode, Name: FaceName, Value: Lucida Console
+DoStep
+Position: 244574964
+Key: \Console\MySQL 5.6 Command Line Client - Unicode, Name: FontWeight, Value: #400
+DoStep
+Position: 244574964
+Key: \Console\MySQL 5.6 Command Line Client - Unicode, Name: , Value: 
+DoStep
+Position: 244574964
+Key: \Software\MySQL AB\MySQL Server 5.6, Name: installed, Value: #1
+DoStep
+Position: 244574964
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.6, Name: Location, Value: C:\Program Files (x86)\MySQL\MySQL Server 5.6\
+DoStep
+Position: 244574964
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.6, Name: Version, Value: 5.6.37
+DoStep
+Position: 244574964
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.6, Name: DataLocation, Value: C:\ProgramData\MySQL\MySQL Server 5.6\
+DoStep
+Position: 244574964
+Key: \SOFTWARE\MySQL AB\MySQL Server 5.6, Name: , Value: 
+DoStep
+Action 8:04:42: ExecSecureObjects. 
+Position: 244575964
+Action 8:04:42: RegisterProduct. Registering product
+Position: 278236892
+{84A5AECC-9516-4948-B606-D65819E5ECBF}
+DoStep
+Action 8:04:42: PublishFeatures. Publishing Product Features
+Feature: RegKeys
+DoStep
+Feature: Client
+DoStep
+Feature: MYSQLSERVER
+DoStep
+Feature: SharedLibraries
+DoStep
+Feature: DEVEL
+DoStep
+Feature: DOCUMENTATION
+DoStep
+Feature: IniFiles
+DoStep
+Feature: MISC
+DoStep
+Feature: Server_Scripts
+DoStep
+Feature: Readme
+DoStep
+Feature: ALWAYSINSTALL
+DoStep
+Feature: ProgramMenu
+DoStep
+Feature: UserEditableDataFiles
+DoStep
+Action 8:04:42: PublishProduct. Publishing product information
+Action 8:04:42: RollbackCleanup. Removing backup files
+Action 8:04:42: RollbackCleanup. Removing backup files
+Min: 0 Max: 317
+File: C:\Config.Msi\9844dc3.rbf
+DoStep
+File: C:\Config.Msi\9844dc4.rbf
+DoStep
+File: C:\Config.Msi\9844dc5.rbf
+DoStep
+File: C:\Config.Msi\9844dc6.rbf
+DoStep
+File: C:\Config.Msi\9844dc7.rbf
+DoStep
+File: C:\Config.Msi\9844dc8.rbf
+DoStep
+File: C:\Config.Msi\9844dc9.rbf
+DoStep
+File: C:\Config.Msi\9844dca.rbf
+DoStep
+File: C:\Config.Msi\9844dcb.rbf
+DoStep
+File: C:\Config.Msi\9844dcc.rbf
+DoStep
+File: C:\Config.Msi\9844dcd.rbf
+DoStep
+File: C:\Config.Msi\9844dce.rbf
+DoStep
+File: C:\Config.Msi\9844dcf.rbf
+DoStep
+File: C:\Config.Msi\9844dd0.rbf
+DoStep
+File: C:\Config.Msi\9844dd1.rbf
+DoStep
+File: C:\Config.Msi\9844dd2.rbf
+DoStep
+File: C:\Config.Msi\9844dd3.rbf
+DoStep
+File: C:\Config.Msi\9844dd4.rbf
+DoStep
+File: C:\Config.Msi\9844dd5.rbf
+DoStep
+File: C:\Config.Msi\9844dd6.rbf
+DoStep
+File: C:\Config.Msi\9844dd7.rbf
+DoStep
+File: C:\Config.Msi\9844dd8.rbf
+DoStep
+File: C:\Config.Msi\9844dd9.rbf
+DoStep
+File: C:\Config.Msi\9844dda.rbf
+DoStep
+File: C:\Config.Msi\9844ddb.rbf
+DoStep
+File: C:\Config.Msi\9844ddc.rbf
+DoStep
+File: C:\Config.Msi\9844ddd.rbf
+DoStep
+File: C:\Config.Msi\9844dde.rbf
+DoStep
+File: C:\Config.Msi\9844ddf.rbf
+DoStep
+File: C:\Config.Msi\9844de0.rbf
+DoStep
+File: C:\Config.Msi\9844de1.rbf
+DoStep
+File: C:\Config.Msi\9844de2.rbf
+DoStep
+File: C:\Config.Msi\9844de3.rbf
+DoStep
+File: C:\Config.Msi\9844de4.rbf
+DoStep
+File: C:\Config.Msi\9844de5.rbf
+DoStep
+File: C:\Config.Msi\9844de6.rbf
+DoStep
+File: C:\Config.Msi\9844de7.rbf
+DoStep
+File: C:\Config.Msi\9844de8.rbf
+DoStep
+File: C:\Config.Msi\9844de9.rbf
+DoStep
+File: C:\Config.Msi\9844dea.rbf
+DoStep
+File: C:\Config.Msi\9844deb.rbf
+DoStep
+File: C:\Config.Msi\9844dec.rbf
+DoStep
+File: C:\Config.Msi\9844ded.rbf
+DoStep
+File: C:\Config.Msi\9844dee.rbf
+DoStep
+File: C:\Config.Msi\9844def.rbf
+DoStep
+File: C:\Config.Msi\9844df0.rbf
+DoStep
+File: C:\Config.Msi\9844df1.rbf
+DoStep
+File: C:\Config.Msi\9844df2.rbf
+DoStep
+File: C:\Config.Msi\9844df3.rbf
+DoStep
+File: C:\Config.Msi\9844df4.rbf
+DoStep
+File: C:\Config.Msi\9844df5.rbf
+DoStep
+File: C:\Config.Msi\9844df6.rbf
+DoStep
+File: C:\Config.Msi\9844df7.rbf
+DoStep
+File: C:\Config.Msi\9844df8.rbf
+DoStep
+File: C:\Config.Msi\9844df9.rbf
+DoStep
+File: C:\Config.Msi\9844dfa.rbf
+DoStep
+File: C:\Config.Msi\9844dfb.rbf
+DoStep
+File: C:\Config.Msi\9844dfc.rbf
+DoStep
+File: C:\Config.Msi\9844dfd.rbf
+DoStep
+File: C:\Config.Msi\9844dfe.rbf
+DoStep
+File: C:\Config.Msi\9844dff.rbf
+DoStep
+File: C:\Config.Msi\9844e00.rbf
+DoStep
+File: C:\Config.Msi\9844e01.rbf
+DoStep
+File: C:\Config.Msi\9844e02.rbf
+DoStep
+File: C:\Config.Msi\9844e03.rbf
+DoStep
+File: C:\Config.Msi\9844e04.rbf
+DoStep
+File: C:\Config.Msi\9844e05.rbf
+DoStep
+File: C:\Config.Msi\9844e06.rbf
+DoStep
+File: C:\Config.Msi\9844e07.rbf
+DoStep
+File: C:\Config.Msi\9844e08.rbf
+DoStep
+File: C:\Config.Msi\9844e09.rbf
+DoStep
+File: C:\Config.Msi\9844e0a.rbf
+DoStep
+File: C:\Config.Msi\9844e0b.rbf
+DoStep
+File: C:\Config.Msi\9844e0c.rbf
+DoStep
+File: C:\Config.Msi\9844e0d.rbf
+DoStep
+File: C:\Config.Msi\9844e0e.rbf
+DoStep
+File: C:\Config.Msi\9844e0f.rbf
+DoStep
+File: C:\Config.Msi\9844e10.rbf
+DoStep
+File: C:\Config.Msi\9844e11.rbf
+DoStep
+File: C:\Config.Msi\9844e12.rbf
+DoStep
+File: C:\Config.Msi\9844e13.rbf
+DoStep
+File: C:\Config.Msi\9844e14.rbf
+DoStep
+File: C:\Config.Msi\9844e15.rbf
+DoStep
+File: C:\Config.Msi\9844e16.rbf
+DoStep
+File: C:\Config.Msi\9844e17.rbf
+DoStep
+File: C:\Config.Msi\9844e18.rbf
+DoStep
+File: C:\Config.Msi\9844e19.rbf
+DoStep
+File: C:\Config.Msi\9844e1a.rbf
+DoStep
+File: C:\Config.Msi\9844e1b.rbf
+DoStep
+File: C:\Config.Msi\9844e1c.rbf
+DoStep
+File: C:\Config.Msi\9844e1d.rbf
+DoStep
+File: C:\Config.Msi\9844e1e.rbf
+DoStep
+File: C:\Config.Msi\9844e1f.rbf
+DoStep
+File: C:\Config.Msi\9844e20.rbf
+DoStep
+File: C:\Config.Msi\9844e21.rbf
+DoStep
+File: C:\Config.Msi\9844e22.rbf
+DoStep
+File: C:\Config.Msi\9844e23.rbf
+DoStep
+File: C:\Config.Msi\9844e24.rbf
+DoStep
+File: C:\Config.Msi\9844e25.rbf
+DoStep
+File: C:\Config.Msi\9844e26.rbf
+DoStep
+File: C:\Config.Msi\9844e27.rbf
+DoStep
+File: C:\Config.Msi\9844e28.rbf
+DoStep
+File: C:\Config.Msi\9844e29.rbf
+DoStep
+File: C:\Config.Msi\9844e2a.rbf
+DoStep
+File: C:\Config.Msi\9844e2b.rbf
+DoStep
+File: C:\Config.Msi\9844e2c.rbf
+DoStep
+File: C:\Config.Msi\9844e2d.rbf
+DoStep
+File: C:\Config.Msi\9844e2e.rbf
+DoStep
+File: C:\Config.Msi\9844e2f.rbf
+DoStep
+File: C:\Config.Msi\9844e30.rbf
+DoStep
+File: C:\Config.Msi\9844e31.rbf
+DoStep
+File: C:\Config.Msi\9844e32.rbf
+DoStep
+File: C:\Config.Msi\9844e33.rbf
+DoStep
+File: C:\Config.Msi\9844e34.rbf
+DoStep
+File: C:\Config.Msi\9844e35.rbf
+DoStep
+File: C:\Config.Msi\9844e36.rbf
+DoStep
+File: C:\Config.Msi\9844e37.rbf
+DoStep
+File: C:\Config.Msi\9844e38.rbf
+DoStep
+File: C:\Config.Msi\9844e39.rbf
+DoStep
+File: C:\Config.Msi\9844e3a.rbf
+DoStep
+File: C:\Config.Msi\9844e3b.rbf
+DoStep
+File: C:\Config.Msi\9844e3c.rbf
+DoStep
+File: C:\Config.Msi\9844e3d.rbf
+DoStep
+File: C:\Config.Msi\9844e3e.rbf
+DoStep
+File: C:\Config.Msi\9844e3f.rbf
+DoStep
+File: C:\Config.Msi\9844e40.rbf
+DoStep
+File: C:\Config.Msi\9844e41.rbf
+DoStep
+File: C:\Config.Msi\9844e42.rbf
+DoStep
+File: C:\Config.Msi\9844e43.rbf
+DoStep
+File: C:\Config.Msi\9844e44.rbf
+DoStep
+File: C:\Config.Msi\9844e45.rbf
+DoStep
+File: C:\Config.Msi\9844e46.rbf
+DoStep
+File: C:\Config.Msi\9844e47.rbf
+DoStep
+File: C:\Config.Msi\9844e48.rbf
+DoStep
+File: C:\Config.Msi\9844e49.rbf
+DoStep
+File: C:\Config.Msi\9844e4a.rbf
+DoStep
+File: C:\Config.Msi\9844e4b.rbf
+DoStep
+File: C:\Config.Msi\9844e4c.rbf
+DoStep
+File: C:\Config.Msi\9844e4d.rbf
+DoStep
+File: C:\Config.Msi\9844e4e.rbf
+DoStep
+File: C:\Config.Msi\9844e4f.rbf
+DoStep
+File: C:\Config.Msi\9844e50.rbf
+DoStep
+File: C:\Config.Msi\9844e51.rbf
+DoStep
+File: C:\Config.Msi\9844e52.rbf
+DoStep
+File: C:\Config.Msi\9844e53.rbf
+DoStep
+File: C:\Config.Msi\9844e54.rbf
+DoStep
+File: C:\Config.Msi\9844e55.rbf
+DoStep
+File: C:\Config.Msi\9844e56.rbf
+DoStep
+File: C:\Config.Msi\9844e57.rbf
+DoStep
+File: C:\Config.Msi\9844e58.rbf
+DoStep
+File: C:\Config.Msi\9844e59.rbf
+DoStep
+File: C:\Config.Msi\9844e5a.rbf
+DoStep
+File: C:\Config.Msi\9844e5b.rbf
+DoStep
+File: C:\Config.Msi\9844e5c.rbf
+DoStep
+File: C:\Config.Msi\9844e5d.rbf
+DoStep
+File: C:\Config.Msi\9844e5e.rbf
+DoStep
+File: C:\Config.Msi\9844e5f.rbf
+DoStep
+File: C:\Config.Msi\9844e60.rbf
+DoStep
+File: C:\Config.Msi\9844e61.rbf
+DoStep
+File: C:\Config.Msi\9844e62.rbf
+DoStep
+File: C:\Config.Msi\9844e63.rbf
+DoStep
+File: C:\Config.Msi\9844e64.rbf
+DoStep
+File: C:\Config.Msi\9844e65.rbf
+DoStep
+File: C:\Config.Msi\9844e66.rbf
+DoStep
+File: C:\Config.Msi\9844e67.rbf
+DoStep
+File: C:\Config.Msi\9844e68.rbf
+DoStep
+File: C:\Config.Msi\9844e69.rbf
+DoStep
+File: C:\Config.Msi\9844e6a.rbf
+DoStep
+File: C:\Config.Msi\9844e6b.rbf
+DoStep
+File: C:\Config.Msi\9844e6c.rbf
+DoStep
+File: C:\Config.Msi\9844e6d.rbf
+DoStep
+File: C:\Config.Msi\9844e6e.rbf
+DoStep
+File: C:\Config.Msi\9844e6f.rbf
+DoStep
+File: C:\Config.Msi\9844e70.rbf
+DoStep
+File: C:\Config.Msi\9844e71.rbf
+DoStep
+File: C:\Config.Msi\9844e72.rbf
+DoStep
+File: C:\Config.Msi\9844e73.rbf
+DoStep
+File: C:\Config.Msi\9844e74.rbf
+DoStep
+File: C:\Config.Msi\9844e75.rbf
+DoStep
+File: C:\Config.Msi\9844e76.rbf
+DoStep
+File: C:\Config.Msi\9844e77.rbf
+DoStep
+File: C:\Config.Msi\9844e78.rbf
+DoStep
+File: C:\Config.Msi\9844e79.rbf
+DoStep
+File: C:\Config.Msi\9844e7a.rbf
+DoStep
+File: C:\Config.Msi\9844e7b.rbf
+DoStep
+File: C:\Config.Msi\9844e7c.rbf
+DoStep
+File: C:\Config.Msi\9844e7d.rbf
+DoStep
+File: C:\Config.Msi\9844e7e.rbf
+DoStep
+File: C:\Config.Msi\9844e7f.rbf
+DoStep
+File: C:\Config.Msi\9844e80.rbf
+DoStep
+File: C:\Config.Msi\9844e81.rbf
+DoStep
+File: C:\Config.Msi\9844e82.rbf
+DoStep
+File: C:\Config.Msi\9844e83.rbf
+DoStep
+File: C:\Config.Msi\9844e84.rbf
+DoStep
+File: C:\Config.Msi\9844e85.rbf
+DoStep
+File: C:\Config.Msi\9844e86.rbf
+DoStep
+File: C:\Config.Msi\9844e87.rbf
+DoStep
+File: C:\Config.Msi\9844e88.rbf
+DoStep
+File: C:\Config.Msi\9844e89.rbf
+DoStep
+File: C:\Config.Msi\9844e8a.rbf
+DoStep
+File: C:\Config.Msi\9844e8b.rbf
+DoStep
+File: C:\Config.Msi\9844e8c.rbf
+DoStep
+File: C:\Config.Msi\9844e8d.rbf
+DoStep
+File: C:\Config.Msi\9844e8e.rbf
+DoStep
+File: C:\Config.Msi\9844e8f.rbf
+DoStep
+File: C:\Config.Msi\9844e90.rbf
+DoStep
+File: C:\Config.Msi\9844e91.rbf
+DoStep
+File: C:\Config.Msi\9844e92.rbf
+DoStep
+File: C:\Config.Msi\9844e93.rbf
+DoStep
+File: C:\Config.Msi\9844e94.rbf
+DoStep
+File: C:\Config.Msi\9844e95.rbf
+DoStep
+File: C:\Config.Msi\9844e96.rbf
+DoStep
+File: C:\Config.Msi\9844e97.rbf
+DoStep
+File: C:\Config.Msi\9844e98.rbf
+DoStep
+File: C:\Config.Msi\9844e99.rbf
+DoStep
+File: C:\Config.Msi\9844e9a.rbf
+DoStep
+File: C:\Config.Msi\9844e9b.rbf
+DoStep
+File: C:\Config.Msi\9844e9c.rbf
+DoStep
+File: C:\Config.Msi\9844e9d.rbf
+DoStep
+File: C:\Config.Msi\9844e9e.rbf
+DoStep
+File: C:\Config.Msi\9844e9f.rbf
+DoStep
+File: C:\Config.Msi\9844ea0.rbf
+DoStep
+File: C:\Config.Msi\9844ea1.rbf
+DoStep
+File: C:\Config.Msi\9844ea2.rbf
+DoStep
+File: C:\Config.Msi\9844ea3.rbf
+DoStep
+File: C:\Config.Msi\9844ea4.rbf
+DoStep
+File: C:\Config.Msi\9844ea5.rbf
+DoStep
+File: C:\Config.Msi\9844ea6.rbf
+DoStep
+File: C:\Config.Msi\9844ea7.rbf
+DoStep
+File: C:\Config.Msi\9844ea8.rbf
+DoStep
+File: C:\Config.Msi\9844ea9.rbf
+DoStep
+File: C:\Config.Msi\9844eaa.rbf
+DoStep
+File: C:\Config.Msi\9844eab.rbf
+DoStep
+File: C:\Config.Msi\9844eac.rbf
+DoStep
+File: C:\Config.Msi\9844ead.rbf
+DoStep
+File: C:\Config.Msi\9844eae.rbf
+DoStep
+File: C:\Config.Msi\9844eaf.rbf
+DoStep
+File: C:\Config.Msi\9844eb0.rbf
+DoStep
+File: C:\Config.Msi\9844eb1.rbf
+DoStep
+File: C:\Config.Msi\9844eb2.rbf
+DoStep
+File: C:\Config.Msi\9844eb3.rbf
+DoStep
+File: C:\Config.Msi\9844eb4.rbf
+DoStep
+File: C:\Config.Msi\9844eb5.rbf
+DoStep
+File: C:\Config.Msi\9844eb6.rbf
+DoStep
+File: C:\Config.Msi\9844eb7.rbf
+DoStep
+File: C:\Config.Msi\9844eb8.rbf
+DoStep
+File: C:\Config.Msi\9844eb9.rbf
+DoStep
+File: C:\Config.Msi\9844eba.rbf
+DoStep
+File: C:\Config.Msi\9844ebb.rbf
+DoStep
+File: C:\Config.Msi\9844ebc.rbf
+DoStep
+File: C:\Config.Msi\9844ebd.rbf
+DoStep
+File: C:\Config.Msi\9844ebe.rbf
+DoStep
+File: C:\Config.Msi\9844ebf.rbf
+DoStep
+File: C:\Config.Msi\9844ec0.rbf
+DoStep
+File: C:\Config.Msi\9844ec1.rbf
+DoStep
+File: C:\Config.Msi\9844ec2.rbf
+DoStep
+File: C:\Config.Msi\9844ec3.rbf
+DoStep
+File: C:\Config.Msi\9844ec4.rbf
+DoStep
+File: C:\Config.Msi\9844ec5.rbf
+DoStep
+File: C:\Config.Msi\9844ec6.rbf
+DoStep
+File: C:\Config.Msi\9844ec7.rbf
+DoStep
+File: C:\Config.Msi\9844ec8.rbf
+DoStep
+File: C:\Config.Msi\9844ec9.rbf
+DoStep
+File: C:\Config.Msi\9844eca.rbf
+DoStep
+File: C:\Config.Msi\9844ecb.rbf
+DoStep
+File: C:\Config.Msi\9844ecc.rbf
+DoStep
+File: C:\Config.Msi\9844ecd.rbf
+DoStep
+File: C:\Config.Msi\9844ece.rbf
+DoStep
+File: C:\Config.Msi\9844ecf.rbf
+DoStep
+File: C:\Config.Msi\9844ed0.rbf
+DoStep
+File: C:\Config.Msi\9844ed1.rbf
+DoStep
+File: C:\Config.Msi\9844ed2.rbf
+DoStep
+File: C:\Config.Msi\9844ed3.rbf
+DoStep
+File: C:\Config.Msi\9844ed4.rbf
+DoStep
+File: C:\Config.Msi\9844ed5.rbf
+DoStep
+File: C:\Config.Msi\9844ed6.rbf
+DoStep
+File: C:\Config.Msi\9844ed7.rbf
+DoStep
+File: C:\Config.Msi\9844ed8.rbf
+DoStep
+File: C:\Config.Msi\9844ed9.rbf
+DoStep
+File: C:\Config.Msi\9844eda.rbf
+DoStep
+File: C:\Config.Msi\9844edb.rbf
+DoStep
+File: C:\Config.Msi\9844edc.rbf
+DoStep
+File: C:\Config.Msi\9844edd.rbf
+DoStep
+File: C:\Config.Msi\9844ede.rbf
+DoStep
+File: C:\Config.Msi\9844edf.rbf
+DoStep
+File: C:\Config.Msi\9844ee0.rbf
+DoStep
+File: C:\Config.Msi\9844ee1.rbf
+DoStep
+File: C:\Config.Msi\9844ee2.rbf
+DoStep
+File: C:\Config.Msi\9844ee3.rbf
+DoStep
+File: C:\Config.Msi\9844ee4.rbf
+DoStep
+File: C:\Config.Msi\9844ee5.rbf
+DoStep
+File: C:\Config.Msi\9844ee6.rbf
+DoStep
+File: C:\Config.Msi\9844ee7.rbf
+DoStep
+File: C:\Config.Msi\9844ee8.rbf
+DoStep
+File: C:\Config.Msi\9844ee9.rbf
+DoStep
+File: C:\Config.Msi\9844eea.rbf
+DoStep
+File: C:\Config.Msi\9844eeb.rbf
+DoStep
+File: C:\Config.Msi\9844eec.rbf
+DoStep
+File: C:\Config.Msi\9844eed.rbf
+DoStep
+File: C:\Config.Msi\9844eee.rbf
+DoStep
+File: C:\Config.Msi\9844eef.rbf
+DoStep
+File: C:\Config.Msi\9844ef0.rbf
+DoStep
+File: C:\Config.Msi\9844ef1.rbf
+DoStep
+File: C:\Config.Msi\9844ef2.rbf
+DoStep
+File: C:\Config.Msi\9844ef3.rbf
+DoStep
+File: C:\Config.Msi\9844ef4.rbf
+DoStep
+File: C:\Config.Msi\9844ef5.rbf
+DoStep
+File: C:\Config.Msi\9844ef6.rbf
+DoStep
+File: C:\Config.Msi\9844ef7.rbf
+DoStep
+File: C:\Config.Msi\9844ef8.rbf
+DoStep
+File: C:\Config.Msi\9844ef9.rbf
+DoStep
+File: C:\Config.Msi\9844efa.rbf
+DoStep
+File: C:\Config.Msi\9844efb.rbf
+DoStep
+File: C:\Config.Msi\9844efc.rbf
+DoStep
+File: C:\Config.Msi\9844efd.rbf
+DoStep
+File: C:\Config.Msi\9844efe.rbf
+DoStep
+File: C:\Config.Msi\9844eff.rbf
+DoStep
+1: MySQL Server 5.6 2: {84A5AECC-9516-4948-B606-D65819E5ECBF} 3: 1 
